@@ -17,7 +17,7 @@ print("Hello from Jupyter!")
 ## output:
 <img width="783" height="315" alt="image" src="https://github.com/user-attachments/assets/109fe388-5c19-436c-b27f-d11eab873cc8" />
 
-## EX:03:VS Code Setup 
+## EX:03:
 ## code:
 ```
 name = "Roshhhh"
@@ -27,7 +27,7 @@ print("Welcome", name)
 <img width="1256" height="147" alt="image" src="https://github.com/user-attachments/assets/245b76ad-304f-4dde-8873-617019f92a6c" />
 
 
-## EX:04:Float Precision 
+## EX:04:
 ## code:
 ```
 num = 10.56789
@@ -40,7 +40,7 @@ print("3 decimal places:", round(num, 3))
 ## output:
 <img width="1271" height="282" alt="image" src="https://github.com/user-attachments/assets/668868e7-e70a-4a8a-9cab-01cceb7ec561" />
 
-## EX:05:Multiple Assignment
+## EX:05:
 ## code:
 ```
 name = input("Enter your name: ")
@@ -52,7 +52,7 @@ print("Next year your age will be", age + 1)
 ## output:
 <img width="897" height="62" alt="image" src="https://github.com/user-attachments/assets/99881eb9-87e8-49dc-bb90-82786015dc23" />
 
-## EX:06:Modulo Operator 
+## EX:06:
 ## code:
 ```
 num = int(input("Enter a number: "))
@@ -65,7 +65,7 @@ else:
 ## output:
 <img width="1282" height="133" alt="image" src="https://github.com/user-attachments/assets/ec71e078-4f0c-47f3-b7a2-cb347dfbb623" />
 
-## EX:07:For Loop
+## EX:07:
 ## code:
 ```
 n = int(input("Enter a number: "))
@@ -76,7 +76,7 @@ for i in range(1, n + 1):
 ## output: 
 <img width="1191" height="420" alt="image" src="https://github.com/user-attachments/assets/55386dfc-2d3b-4517-a704-a29c70e11b3b" />
 
-## EX:08:ListLoop
+## EX:08:
 ## code:
 ```
 fruits = ["apple", "banana", "mango", "orange"]
@@ -89,7 +89,7 @@ for fruit in fruits:
 <img width="522" height="227" alt="image" src="https://github.com/user-attachments/assets/504b30d3-1d4e-4c15-aaa2-48ebe4e985b7" />
 
 
-## EX:09: String
+## EX:09: 
 ## code:
 ```
 text = input("Enter a string: ")
